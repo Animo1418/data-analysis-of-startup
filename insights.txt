@@ -1,0 +1,8 @@
+Insight 1: Top markets by funding (see top_markets.png)
+Insight 2: Funding distribution by status (see funding_by_status.png)
+Insight 3: Top countries by startup count (see top_countries.png)
+Insight 4: Funding trends over time (see funding_trends.png)
+Insight 5: Funding rounds vs. funding (see funding_rounds.png)
+Insight 6: Market share by startup count (see market_share.png)
+Insight 7: Funding by type (see funding_types.png)
+Insight 8: Top markets by acquisition rate (see acquisition_rate.png)
