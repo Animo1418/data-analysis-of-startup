@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Startup Investments Hackathon 🚀
 
 Hey there! Welcome to my project for the Startup Investments Hackathon. I’ve analyzed a dataset of startup investments and built an interactive dashboard to share some really cool insights. Let’s dive in!
@@ -42,3 +43,7 @@ If you’d like to run the app on your own machine, it’s super easy! Just foll
    git clone https://github.com/amanraj74/Startup-Investments-Analysis.git
    cd Startup-Investments-Analysis
    
+=======
+# data-analysis-of-startup
+data analyze
+>>>>>>> d5508a95ac078394eb147b78f674c8143b4a93d9
