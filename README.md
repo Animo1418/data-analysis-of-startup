@@ -26,7 +26,7 @@ Here are the 8 key insights I discovered:
 
 ## Check Out the Live Dashboard 🌐
 I’ve deployed the dashboard on Streamlit Cloud, and you can play with it here:  
-👉 [Startup Investments Dashboard](https://amanraj74-startup-investments-analysis-app-ydcipl.streamlit.app)
+👉 [Startup Investments Dashboard](https://animo1418-data-analysis-of-startup-app-fkfeec.streamlit.app/)
 
 It’s got filters for markets, countries, and startup status, so you can explore the data however you like!
 
@@ -40,8 +40,8 @@ If you’d like to run the app on your own machine, it’s super easy! Just foll
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/amanraj74/Startup-Investments-Analysis.git
-   cd Startup-Investments-Analysis
+   git clone https://github.com/Animo1418/data-analysis-of-startup.git
+   cd Startup-Data-Analysis
    
 =======
 # data-analysis-of-startup
